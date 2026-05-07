@@ -6,10 +6,10 @@ The primary goal of this project was to provide a centralized view of sales perf
 **.** **Manual Data Processing**
 Compiling reports took hours of manual effort.
 
-**.****Lack of Real-time Insights**
+**.** **Lack of Real-time Insights**
 Identifying trends across different regions and timeframes was difficult.
 
-**.****Inventory Inefficiency**
+**.** **Inventory Inefficiency**
 Difficulty in tracking which brands or models were overstocked or underperforming.
 
 # Tech Stack & Tools
